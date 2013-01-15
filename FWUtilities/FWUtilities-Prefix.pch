@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FWUtilities' target in the 'FWUtilities' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
